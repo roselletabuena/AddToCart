@@ -1,0 +1,7 @@
+.cart-dropdown{
+    min-width: 30rem !important;
+}
+
+.dropdown-toggle::after {
+    display:none !important;
+}
